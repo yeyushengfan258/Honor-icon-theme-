@@ -1,14 +1,30 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="a" x1="-6.8469" x2="-6.1472" y1="-139.06" y2="-102.47" gradientTransform="matrix(.53033 0 0 .53033 11.536 71.99)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#6a6a6a" offset="0"/>
-   <stop stop-color="#505050" offset="1"/>
-  </linearGradient>
+  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14552168"/>
+  </filter>
+  <filter id="filter924" x="-.060054" y="-.059946" width="1.1201" height="1.1199" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.2078715"/>
+  </filter>
  </defs>
- <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
- <circle cx="8.4935" cy="8.73" r="7.9375" opacity=".2" stroke-width=".14032"/>
- <circle cx="8.4935" cy="8.46" r="7.9375" fill="url(#a)" stroke-width=".14032"/>
- <circle cx="-39.434" cy="6.44" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
- <rect x="6.6145" y="10.319" width="4.233" height=".529" ry=".265" fill="#fff" style="paint-order:stroke markers fill"/>
- <path d="m5.2955 5.5185a0.264 0.264 0 0 0-0.262 0.13 0.264 0.264 0 0 0 0.097 0.362l2.842 1.64-2.842 1.641a0.264 0.264 0 0 0-0.097 0.362c0.074 0.127 0.235 0.17 0.362 0.097l3.207-1.852a0.26 0.26 0 0 0 0.127-0.225c2e-3 -8e-3 1e-3 -0.015 2e-3 -0.022 0-8e-3 0-0.015-2e-3 -0.023a0.26 0.26 0 0 0-0.127-0.224l-3.207-1.853a0.266 0.266 0 0 0-0.1-0.033z" fill="#fff" style="paint-order:stroke markers fill"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
+ <g>
+  <g transform="matrix(1.3181 0 0 1.3181 -2.6291 -2.6396)" fill="#285ae6" filter="url(#filter924)">
+   <path d="m11.198 11.399a4.1537 4.1537 0 0 1-2.7795 1.067 4.1537 4.1537 0 0 1-4.1537-4.1537 4.1537 4.1537 0 0 1 4.1537-4.1537 4.1537 4.1537 0 0 1 2.7795 1.0671"/>
+   <circle cx="8.4188" cy="8.3271" r="4.1537" opacity=".2"/>
+  </g>
+  <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#4d4d4d"/>
+  <path d="m3.7377 4.3486-0.18198 0.54747 1.8474 0.74102-1.8474 0.74102 0.18198 0.54747 2.3768-1.0065v-0.56406zm2.3734 3.3291v0.56712h2.8356v-0.56712z" enable-background="new" fill="#f2f2f2"/>
+ </g>
 </svg>
