@@ -1,0 +1,14 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="-6.8469" x2="-6.1472" y1="-139.06" y2="-102.47" gradientTransform="matrix(.53033 0 0 .53033 11.536 71.99)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6a6a6a" offset="0"/>
+   <stop stop-color="#505050" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="8.4935" cy="8.73" r="7.9375" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.4935" cy="8.46" r="7.9375" fill="url(#a)" stroke-width=".14032"/>
+ <circle cx="-39.434" cy="6.44" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+ <rect x="6.6145" y="10.319" width="4.233" height=".529" ry=".265" fill="#fff" style="paint-order:stroke markers fill"/>
+ <path d="m5.2955 5.5185a0.264 0.264 0 0 0-0.262 0.13 0.264 0.264 0 0 0 0.097 0.362l2.842 1.64-2.842 1.641a0.264 0.264 0 0 0-0.097 0.362c0.074 0.127 0.235 0.17 0.362 0.097l3.207-1.852a0.26 0.26 0 0 0 0.127-0.225c2e-3 -8e-3 1e-3 -0.015 2e-3 -0.022 0-8e-3 0-0.015-2e-3 -0.023a0.26 0.26 0 0 0-0.127-0.224l-3.207-1.853a0.266 0.266 0 0 0-0.1-0.033z" fill="#fff" style="paint-order:stroke markers fill"/>
+</svg>
