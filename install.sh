@@ -12,7 +12,7 @@ fi
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
-THEME_NAME=Citrus
+THEME_NAME=Honor
 COLOR_VARIANTS=('' '-dark')
 
 usage() {
