@@ -41,22 +41,13 @@
  <path d="m8.234 5.0195c-0.293 0-0.38167 0.27567-0.52967 0.52967l-0.30798 0.52812h-6.2181c-9.73e-4 0.12127-0.0036 0.23413-0.0036 0.36121v3.7759c0 4.7152 0.62974 5.3877 5.0347 5.3877h4.4834c4.405 0 5.0342-0.67248 5.0342-5.3877v-3.7759c0-0.52382-0.0096-0.99035-0.02945-1.419z" enable-background="new" fill="url(#linearGradient2771)"/>
  <path d="m15.727 11.554-4.0312 4.0312c3.1176-0.10511 3.8959-0.84418 4.0312-4.0312z" enable-background="new" fill="#fff" opacity=".2"/>
  <path d="m1.4314 6.9805c-0.04516 0.091-0.08974 0.18276-0.13152 0.27537h14.353c-0.03997-0.0926-0.08778-0.18438-0.13102-0.27537z" fill="url(#linearGradient677348)" stroke-width=".1415"/>
- <g transform="translate(-18.338 -1.4972)" fill-rule="evenodd">
-  <g transform="matrix(.25441 0 0 .25441 20.683 6.5516)" opacity=".25">
-   <circle cx="14" cy="24" r="3"/>
-   <circle cx="28" cy="24" r="3"/>
-   <circle cx="20" cy="14" r="3"/>
-   <circle cx="20" cy="34" r="3"/>
-   <circle cx="34" cy="34" r="3"/>
-   <path d="m19.14 13.486-6.309 10.514 6.6 11h14.566v-2h-13.434l-4.801-8h12.234v-2h-12.234l5.092-8.486-1.715-1.027z" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
-  </g>
-  <g transform="matrix(.25441 0 0 .25441 20.683 6.3716)" fill="#fff">
-   <circle cx="14" cy="24" r="3"/>
-   <circle cx="28" cy="24" r="3"/>
-   <circle cx="20" cy="14" r="3"/>
-   <circle cx="20" cy="34" r="3"/>
-   <circle cx="34" cy="34" r="3"/>
-   <path d="m19.14 13.486-6.309 10.514 6.6 11h14.566v-2h-13.434l-4.801-8h12.234v-2h-12.234l5.092-8.486-1.715-1.027z" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+ <circle cx="-382.04" cy="-335.98" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <g transform="translate(26.452 -.4189)">
+  <polygon transform="matrix(.012267 0 0 .012267 -20.618 8.6786)" points="346.76 346.71 332.43 371.52 58.426 213.33 332.43 55.142 346.76 79.957 115.74 213.33" fill="#f0f0f0"/>
+  <g transform="translate(-26.503 -.35225)" fill="#fafafa" stroke-width=".012267">
+   <circle cx="6.9528" cy="11.648" r=".82863"/>
+   <circle cx="10.05" cy="9.8594" r=".82863"/>
+   <circle cx="10.05" cy="13.436" r=".82863"/>
   </g>
  </g>
 </svg>
