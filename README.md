@@ -1,4 +1,4 @@
-## Citrus Icon Theme
+## Honor Icon Theme
 A colorful design icon theme for linux desktops
 
 ## Install
@@ -6,4 +6,7 @@ A colorful design icon theme for linux desktops
 `./install.sh`
 
 ## view
-![CITRUS](https://github.com/yeyushengfan258/Citrus-icon-theme/blob/master/view.png?raw=true)
+![view](View-1.jpg?raw=true)
+![view](View-2.jpg?raw=true)
+![view](View-3.jpg?raw=true)
+
