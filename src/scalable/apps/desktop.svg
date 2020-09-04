@@ -1,221 +1,1284 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#3889e9" offset="0"/>
-   <stop stop-color="#5ea5fb" offset="1"/>
-  </linearGradient>
-  <filter id="d" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.47489162"/>
-  </filter>
-  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.14552168"/>
-  </filter>
-  <linearGradient id="linearGradient1248" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -629.85 -1110.8)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-  <linearGradient id="linearGradient1279" x1="4.7662" x2="58.412" y1="4.8809" y2="58.847" gradientTransform="translate(0 -.033858)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#9b33ae" offset="0"/>
-   <stop stop-color="#fb7c38" offset="1"/>
-  </linearGradient>
- </defs>
- <path transform="matrix(3.7796 0 0 3.7796 -.004 .5309)" d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
- <path d="m40.469 4.4656c16.649 0 19.028 2.543 19.028 20.364v14.272c0 17.822-2.3794 20.364-19.028 20.364h-16.945c-16.649 0-19.029-2.5429-19.029-20.364v-14.272c0-17.822 2.3794-20.364 19.029-20.364z" enable-background="new" fill="url(#linearGradient1279)" stroke-width="3.7796"/>
- <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
- <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
- <path d="m19.264 4.5527c-12.774 0.53083-14.77 4.1187-14.77 20.277v14.271c0 16.158 1.9955 19.746 14.77 20.277v-54.826z" enable-background="new" opacity=".3" stroke-width="1.4351"/>
- <path d="m39.91 4.502 19.578 19.578c-0.067284-16-2.2995-19.229-15.992-19.578h-3.5859z" color="#000000" fill="#5d5d5d" stroke-width="1.4871"/>
- <path transform="matrix(1.4871 0 0 1.4871 -20.962 -13.629)" d="m50.43 25.361-9.4975-9.4975v3.6413c0 5.2381 0.53814 5.8818 5.7872 5.8562z" color="#000000" filter="url(#d)" opacity=".35"/>
- <path d="m59.497 24.087-19.587-19.587v7.5098c0 10.803 1.1099 12.131 11.935 12.078z" color="#000000" fill="#faf8f6" stroke-width="1.4871"/>
- <g transform="matrix(3.7796 0 0 3.7796 98.437 -9.5031)" fill="#5e4aa6" stroke-width=".26458">
-  <circle cx="-305.77" cy="-331.46" r="0"/>
-  <circle cx="-301.96" cy="-329.38" r="0"/>
-  <circle cx="-298.88" cy="-325.72" r="0"/>
-  <circle cx="-301.82" cy="-331.53" r="0"/>
-  <g transform="translate(55.39,6.5931)">
-   <circle cx="-330.35" cy="-328.38" r="0"/>
-   <circle cx="-299.17" cy="-337.27" r="0"/>
-   <circle cx="-299.81" cy="-339.42" r="0"/>
-   <circle cx="-302.25" cy="-338.13" r="0"/>
-   <circle cx="-301.89" cy="-335.91" r="0"/>
-   <circle cx="-304.76" cy="-351.05" r="0"/>
-   <circle cx="-304.83" cy="-349.54" r="0"/>
-   <circle cx="-359.94" cy="-336.91" r="0"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="desktop.svg"
+   id="svg359"
+   version="1.1"
+   height="64"
+   width="64">
+  <sodipodi:namedview
+     inkscape:current-layer="svg359"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="11.316795"
+     inkscape:cx="9.5609961"
+     inkscape:zoom="4.2150193"
+     showgrid="false"
+     id="namedview361"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs21">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)"
+       y2="517.8"
+       y1="545.8"
+       x2="399.57"
+       x1="399.57"
+       id="b">
+      <stop
+         id="stop4"
+         offset="0"
+         stop-color="#3889e9" />
+      <stop
+         id="stop6"
+         offset="1"
+         stop-color="#5ea5fb" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="d">
+      <feGaussianBlur
+         id="feGaussianBlur9"
+         stdDeviation="0.47489162" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.048"
+       width="1.048"
+       y="-.024"
+       x="-.024"
+       id="filter2761">
+      <feGaussianBlur
+         id="feGaussianBlur12"
+         stdDeviation="0.14552168" />
+    </filter>
+    <linearGradient
+       xlink:href="#b"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1429 0 0 2.1429 -629.85 -1110.8)"
+       y2="517.8"
+       y1="545.8"
+       x2="399.57"
+       x1="399.57"
+       id="linearGradient1248" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-68.321183,-0.033858)"
+       y2="58.847"
+       y1="4.8809"
+       x2="58.412"
+       x1="4.7662"
+       id="linearGradient1279">
+      <stop
+         id="stop16"
+         offset="0"
+         stop-color="#9b33ae" />
+      <stop
+         id="stop18"
+         offset="1"
+         stop-color="#fb7c38" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient927"
+       inkscape:collect="always">
+      <stop
+         id="stop923"
+         offset="0"
+         style="stop-color:#fa7d37;stop-opacity:1" />
+      <stop
+         id="stop925"
+         offset="1"
+         style="stop-color:#9b32af;stop-opacity:1" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.048"
+       width="1.048"
+       y="-.024"
+       x="-.024"
+       id="filter2761-7">
+      <feGaussianBlur
+         id="feGaussianBlur4"
+         stdDeviation="0.14552168" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.59046978,-1.1664834)"
+       y2="1.1724"
+       y1="15.429"
+       x2="15.49"
+       x1="1.3941"
+       id="linearGradient872">
+      <stop
+         id="stop7"
+         offset="0"
+         stop-color="#ff3c69" />
+      <stop
+         id="stop9"
+         offset="1"
+         stop-color="#ff462b" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.0699"
+       width="1.0742"
+       y="-.034971"
+       x="-.037091"
+       id="filter1010">
+      <feGaussianBlur
+         id="feGaussianBlur12-5"
+         stdDeviation="0.05378021" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.07"
+       width="1.0741"
+       y="-.035009"
+       x="-.037049"
+       id="filter1030">
+      <feGaussianBlur
+         id="feGaussianBlur15"
+         stdDeviation="0.024028153" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.072"
+       width="1.072"
+       y="-.035998"
+       x="-.036002"
+       id="filter1034">
+      <feGaussianBlur
+         id="feGaussianBlur18"
+         stdDeviation="0.10759511" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.048"
+       width="1.048"
+       y="-.024"
+       x="-.024"
+       id="filter2761-6">
+      <feGaussianBlur
+         id="feGaussianBlur4-7"
+         stdDeviation="0.14552168" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.048"
+       width="1.048"
+       y="-.024"
+       x="-.024"
+       id="filter2761-3675">
+      <feGaussianBlur
+         id="feGaussianBlur2"
+         stdDeviation="0.14552168" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.8475,-2.1749)"
+       y2="32.176"
+       y1="32.176"
+       x2="-.93244"
+       x1="-9.2997"
+       id="linearGradient1195">
+      <stop
+         id="stop5"
+         offset="0"
+         stop-color="#1478e6" />
+      <stop
+         id="stop7-53"
+         offset="1"
+         stop-color="#3c50e6" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.048"
+       width="1.048"
+       y="-.024"
+       x="-.024"
+       id="filter2761-367">
+      <feGaussianBlur
+         id="feGaussianBlur2-5"
+         stdDeviation="0.14552168" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1199"
+       width="1.1201"
+       y="-.059946"
+       x="-.060054"
+       id="filter924">
+      <feGaussianBlur
+         id="feGaussianBlur5"
+         stdDeviation="0.2078715" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1208"
+       width="1.1192"
+       y="-.0604"
+       x="-.059605"
+       id="filter852">
+      <feGaussianBlur
+         id="feGaussianBlur8"
+         stdDeviation="0.23538182" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.048"
+       width="1.048"
+       y="-.024"
+       x="-.024"
+       id="filter2761-36">
+      <feGaussianBlur
+         id="feGaussianBlur2-7"
+         stdDeviation="0.14552168" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(58.81987,-4.9486)"
+       y2="16.321"
+       y1="16.321"
+       x2="-16.238"
+       x1="-22.655"
+       id="linearGradient1174">
+      <stop
+         id="stop5-3"
+         offset="0"
+         stop-color="#0a82f0" />
+      <stop
+         id="stop7-5"
+         offset="1"
+         stop-color="#3250e6" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1052"
+       x="-0.048"
+       width="1.096"
+       y="-0.048"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.29103594"
+         id="feGaussianBlur1054" />
+    </filter>
+    <filter
+       id="filter2761-3"
+       x="-.024"
+       y="-.024"
+       width="1.048"
+       height="1.048"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.14552168"
+         id="feGaussianBlur895" />
+    </filter>
+    <linearGradient
+       gradientTransform="matrix(3.779602,0,0,3.779602,103.58803,-1.7058895e-7)"
+       gradientUnits="userSpaceOnUse"
+       y2="1.1906018"
+       x2="-11.664725"
+       y1="15.742399"
+       x1="-26.216522"
+       id="linearGradient929"
+       xlink:href="#linearGradient927"
+       inkscape:collect="always" />
+    <linearGradient
+       id="b-3"
+       x1="399.57"
+       x2="399.57"
+       y1="545.8"
+       y2="517.8"
+       gradientTransform="matrix(2.1429,0,0,2.1429,-857.77076,-1108.5005)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3889e9"
+         offset="0"
+         id="stop1279" />
+      <stop
+         stop-color="#5ea5fb"
+         offset="1"
+         id="stop1281" />
+    </linearGradient>
+    <linearGradient
+       id="a"
+       x1="542.64"
+       x2="543.25"
+       y1="507.29"
+       y2="463.62"
+       gradientTransform="matrix(0.72559,0.0036045,-0.0038878,0.67325,-292.82076,-280.1805)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#132e51"
+         offset="0"
+         id="stop1284" />
+      <stop
+         stop-color="#2767b9"
+         offset="1"
+         id="stop1286" />
+    </linearGradient>
+    <linearGradient
+       id="d-5"
+       x1="516.86"
+       x2="518.54"
+       y1="446.71"
+       y2="431.85"
+       gradientTransform="matrix(0.57339,0,0,0.57339,-214.49747,-225.05312)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#eefefe"
+         offset="0"
+         id="stop1289" />
+      <stop
+         stop-color="#d6fefe"
+         offset="1"
+         id="stop1291" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient865"
+       x1="7.9373"
+       x2="7.9373"
+       y1="6.879"
+       y2="1.0583"
+       gradientTransform="matrix(3.7796,0,0,3.7796,68.11924,-1.0004997)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient863" />
+    <linearGradient
+       id="linearGradient863">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop1295" />
+      <stop
+         stop-color="#ccf0ff"
+         offset="1"
+         id="stop1297" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient855"
+       x1="7.9373"
+       x2="7.9373"
+       y1="15.081"
+       y2="1.852"
+       gradientTransform="matrix(3.7796,0,0,3.7796,68.11924,-1.0004997)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#82cdfb"
+         offset="0"
+         id="stop1300" />
+      <stop
+         stop-color="#319af6"
+         offset="1"
+         id="stop1302" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(68.11924,-1.0004997)"
+       id="linearGradient910"
+       x1="45"
+       x2="57.008"
+       y1="19"
+       y2="6.9915"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient863" />
+    <linearGradient
+       y2="6.9915"
+       x2="57.008"
+       y1="19"
+       x1="45"
+       gradientTransform="translate(0.80953671,1.0982312)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1422"
+       xlink:href="#linearGradient863"
+       inkscape:collect="always" />
+  </defs>
+  <circle
+     id="circle29"
+     stroke-width="1.5715"
+     fill="url(#b)"
+     r="0"
+     cy="32.044"
+     cx="32.02" />
+  <g
+     id="g325"
+     stroke-width=".26458"
+     fill="#5e4aa6"
+     transform="matrix(3.7796 0 0 3.7796 98.437 -9.5031)">
+    <circle
+       id="circle39"
+       r="0"
+       cy="-331.46"
+       cx="-305.77" />
+    <circle
+       id="circle41"
+       r="0"
+       cy="-329.38"
+       cx="-301.96" />
+    <circle
+       id="circle43"
+       r="0"
+       cy="-325.72"
+       cx="-298.88" />
+    <circle
+       id="circle45"
+       r="0"
+       cy="-331.53"
+       cx="-301.82" />
+    <g
+       id="g63"
+       transform="translate(55.39,6.5931)">
+      <circle
+         id="circle47"
+         r="0"
+         cy="-328.38"
+         cx="-330.35" />
+      <circle
+         id="circle49"
+         r="0"
+         cy="-337.27"
+         cx="-299.17" />
+      <circle
+         id="circle51"
+         r="0"
+         cy="-339.42"
+         cx="-299.81" />
+      <circle
+         id="circle53"
+         r="0"
+         cy="-338.13"
+         cx="-302.25" />
+      <circle
+         id="circle55"
+         r="0"
+         cy="-335.91"
+         cx="-301.89" />
+      <circle
+         id="circle57"
+         r="0"
+         cy="-351.05"
+         cx="-304.76" />
+      <circle
+         id="circle59"
+         r="0"
+         cy="-349.54"
+         cx="-304.83" />
+      <circle
+         id="circle61"
+         r="0"
+         cy="-336.91"
+         cx="-359.94" />
+    </g>
+    <g
+       id="g103"
+       transform="translate(30.323,-4.155)">
+      <circle
+         id="circle65"
+         r="0"
+         cy="-328.38"
+         cx="-330.35" />
+      <g
+         id="g83"
+         transform="translate(23.999,2.5837)">
+        <circle
+           id="circle67"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle69"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle71"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle73"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle75"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle77"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle79"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle81"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+      <g
+         id="g101"
+         transform="translate(24.518,-1.8976)">
+        <circle
+           id="circle85"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle87"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle89"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle91"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle93"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle95"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle97"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle99"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+    </g>
+    <g
+       id="g145"
+       transform="translate(28.745,-10.326)">
+      <circle
+         id="circle105"
+         r="0"
+         cy="-328.38"
+         cx="-330.35" />
+      <g
+         id="g123"
+         transform="translate(23.999,2.5837)">
+        <circle
+           id="circle107"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle109"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle111"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle113"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle115"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle117"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle119"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle121"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+      <g
+         id="g141"
+         transform="translate(24.518,-1.8976)">
+        <circle
+           id="circle125"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle127"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle129"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle131"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle133"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle135"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle137"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle139"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+      <circle
+         id="circle143"
+         r="0"
+         cy="-331.32"
+         cx="-311.92" />
+    </g>
+    <g
+       id="g187"
+       transform="translate(27.094,-3.4375)">
+      <circle
+         id="circle147"
+         r="0"
+         cy="-328.38"
+         cx="-330.35" />
+      <g
+         id="g165"
+         transform="translate(23.999,2.5837)">
+        <circle
+           id="circle149"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle151"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle153"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle155"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle157"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle159"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle161"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle163"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+      <g
+         id="g183"
+         transform="translate(24.518,-1.8976)">
+        <circle
+           id="circle167"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle169"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle171"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle173"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle175"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle177"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle179"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle181"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+      <circle
+         id="circle185"
+         r="0"
+         cy="-331.32"
+         cx="-311.92" />
+    </g>
+    <g
+       id="g251"
+       transform="translate(29.247,-7.4555)">
+      <circle
+         id="circle189"
+         r="0"
+         cy="-328.38"
+         cx="-330.35" />
+      <g
+         id="g207"
+         transform="translate(23.999,2.5837)">
+        <circle
+           id="circle191"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle193"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle195"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle197"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle199"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle201"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle203"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle205"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+      <g
+         id="g225"
+         transform="translate(24.518,-1.8976)">
+        <circle
+           id="circle209"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle211"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle213"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle215"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle217"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle219"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle221"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle223"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+      <circle
+         id="circle227"
+         r="0"
+         cy="-331.32"
+         cx="-311.92" />
+      <circle
+         id="circle229"
+         r="0"
+         cy="-345.82"
+         cx="-300.02" />
+      <g
+         id="g247"
+         transform="translate(19.697 .87184)">
+        <circle
+           id="circle231"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle233"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle235"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle237"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle239"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle241"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle243"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle245"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+      <circle
+         id="circle249"
+         r="0"
+         cy="-321.23"
+         cx="-299.82" />
+    </g>
+    <g
+       id="g315"
+       transform="translate(22.502,-7.025)">
+      <circle
+         id="circle253"
+         r="0"
+         cy="-328.38"
+         cx="-330.35" />
+      <g
+         id="g271"
+         transform="translate(23.999,2.5837)">
+        <circle
+           id="circle255"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle257"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle259"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle261"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle263"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle265"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle267"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle269"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+      <g
+         id="g289"
+         transform="translate(24.518,-1.8976)">
+        <circle
+           id="circle273"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle275"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle277"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle279"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle281"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle283"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle285"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle287"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+      <circle
+         id="circle291"
+         r="0"
+         cy="-331.32"
+         cx="-311.92" />
+      <circle
+         id="circle293"
+         r="0"
+         cy="-345.82"
+         cx="-300.02" />
+      <g
+         id="g311"
+         transform="translate(19.697 .87184)">
+        <circle
+           id="circle295"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle297"
+           r="0"
+           cy="-337.27"
+           cx="-299.17" />
+        <circle
+           id="circle299"
+           r="0"
+           cy="-339.42"
+           cx="-299.81" />
+        <circle
+           id="circle301"
+           r="0"
+           cy="-338.13"
+           cx="-302.25" />
+        <circle
+           id="circle303"
+           r="0"
+           cy="-335.91"
+           cx="-301.89" />
+        <circle
+           id="circle305"
+           r="0"
+           cy="-351.05"
+           cx="-304.76" />
+        <circle
+           id="circle307"
+           r="0"
+           cy="-349.54"
+           cx="-304.83" />
+        <circle
+           id="circle309"
+           r="0"
+           cy="-336.91"
+           cx="-359.94" />
+      </g>
+      <circle
+         id="circle313"
+         r="0"
+         cy="-321.23"
+         cx="-299.82" />
+    </g>
+    <g
+       id="g323"
+       transform="translate(17.301,-3.9312)">
+      <circle
+         id="circle317"
+         r="0"
+         cy="-328.38"
+         cx="-330.35" />
+      <circle
+         id="circle319"
+         fill-rule="evenodd"
+         r="0"
+         cy="6.44"
+         cx="-39.434" />
+      <circle
+         id="circle321"
+         r="0"
+         cy="-332.28"
+         cx="-306.9" />
+    </g>
   </g>
-  <g transform="translate(30.323,-4.155)">
-   <circle cx="-330.35" cy="-328.38" r="0"/>
-   <g transform="translate(23.999,2.5837)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
-   <g transform="translate(24.518,-1.8976)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
+  <g
+     id="g333"
+     stroke-width=".26458"
+     fill="#5e4aa6"
+     transform="matrix(3.7796 0 0 3.7796 203.05 -.48001)">
+    <circle
+       id="circle327"
+       r="0"
+       cy="-328.38"
+       cx="-330.35" />
+    <circle
+       id="circle329"
+       fill-rule="evenodd"
+       r="0"
+       cy="6.44"
+       cx="-39.434" />
+    <circle
+       id="circle331"
+       r="0"
+       cy="-332.28"
+       cx="-306.9" />
   </g>
-  <g transform="translate(28.745,-10.326)">
-   <circle cx="-330.35" cy="-328.38" r="0"/>
-   <g transform="translate(23.999,2.5837)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
-   <g transform="translate(24.518,-1.8976)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
-   <circle cx="-311.92" cy="-331.32" r="0"/>
+  <circle
+     id="circle335"
+     stroke-width="1.5715"
+     fill="url(#linearGradient1248)"
+     r="0"
+     cy="28.746"
+     cx="228.53" />
+  <g
+     id="g357"
+     stroke-width=".26458"
+     fill="#5e4aa6"
+     transform="matrix(3.7796 0 0 3.7796 196.51 -3.2984)">
+    <circle
+       id="circle337"
+       r="0"
+       cy="-328.38"
+       cx="-330.35" />
+    <circle
+       id="circle339"
+       fill-rule="evenodd"
+       r="0"
+       cy="6.44"
+       cx="-39.434" />
+    <g
+       id="g355"
+       transform="translate(3.0032e-4,-9.9674e-5)">
+      <circle
+         id="circle341"
+         r="0"
+         cy="-328.38"
+         cx="-347.64" />
+      <circle
+         id="circle343"
+         fill-rule="evenodd"
+         r="0"
+         cy="6.44"
+         cx="-56.726" />
+      <g
+         id="g353"
+         transform="translate(-.0272 .0065001)">
+        <circle
+           id="circle345"
+           r="0"
+           cy="-328.38"
+           cx="-330.35" />
+        <circle
+           id="circle347"
+           r="0"
+           cy="-326.25"
+           cx="-312.11" />
+        <circle
+           id="circle349"
+           r="0"
+           cy="-333.07"
+           cx="-306.02" />
+        <circle
+           id="circle351"
+           r="0"
+           cy="-326.01"
+           cx="-308.84" />
+      </g>
+    </g>
   </g>
-  <g transform="translate(27.094,-3.4375)">
-   <circle cx="-330.35" cy="-328.38" r="0"/>
-   <g transform="translate(23.999,2.5837)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
-   <g transform="translate(24.518,-1.8976)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
-   <circle cx="-311.92" cy="-331.32" r="0"/>
+  <rect
+     transform="scale(3.779602)"
+     ry="3.4395156"
+     y="1.1906018"
+     x="1.1906018"
+     height="14.551797"
+     width="14.551797"
+     id="rect1042"
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.529156;stroke-linecap:round;filter:url(#filter1052)" />
+  <rect
+     style="fill:url(#linearGradient929);fill-opacity:1;stroke-width:2.11337;stroke-linecap:round"
+     id="rect921"
+     width="55"
+     height="55"
+     x="4.4999967"
+     y="4.5"
+     ry="13" />
+  <circle
+     cx="-1327.887"
+     cy="-1241.1458"
+     r="0"
+     fill="#5e4aa6"
+     stroke-width="1.00001"
+     id="circle23" />
+  <circle
+     style="fill:url(#b-3)"
+     id="circle1308"
+     stroke-width="1.5715"
+     fill="url(#b)"
+     r="0"
+     cy="31.043499"
+     cx="0.61424273" />
+  <path
+     d="M 4.5 17.5 L 4.5 46.5 C 4.5 53.702 10.298 59.5 17.5 59.5 L 19.316406 59.5 L 19.316406 4.5 L 17.5 4.5 C 10.298 4.5 4.5 10.298 4.5 17.5 z "
+     style="fill:#000000;fill-opacity:1;stroke-width:2.11337;stroke-linecap:round;opacity:0.3"
+     id="path1399" />
+  <g
+     transform="translate(-1.3115382,-0.56683111)"
+     id="g1426">
+    <image
+       id="image1418"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAGfSURB VEiJ5ZbBcoMwDETXAfL/31sI7qHeellk47RpLtWMxoRgntayZBKqJRlvACYZ+d8eeBYftjm4R/Ct /D8JnLANwEOcNgyPwB7AIgHkAl6Lb+W5R7k/HMAUwFzxAuBefCnONPB5tRzcGwJzjMCEcwVuV4CW tZbaN0wqoHsZdxyVU/1anr/Mu4OzjMwnXeEJZ+W+7F14TzGB3DjM3YSaghlV8VPw3q4mXMtG4Vrr hCIYQ3gE1uVW1Qr3Gle1KXiXBp1HFKvqDbVxaM5VbUsEjfNyD8yJCqVrzucA7FWh1ztwruPItHfP 5r6xVH3ueBfMF/BlU+C+mzXHGoAfKJfgZNfaTlslpKb75HA9utRRABFAfzv4cJRegXW5WjBX42d0 dIbvI4oji2p8s1G73qkLPgt2JdpYNtQzWmue5bfJnP2qjhUI1MNe63sF8IGvjcoTSxuLpyABSKNg h6tqwr3MHM5gM4B0+aUQmO9wbR7eTPwA+c71T8CtAIBzM2l1tP03YA8gCiby06RXmL/vbeBWEKeP hL8Ed4N4FzgK4J/ZJzb6yWoeClSMAAAAAElFTkSuQmCC "
+       preserveAspectRatio="none"
+       height="32"
+       width="32"
+       y="5.0668311"
+       x="28.811535" />
+    <path
+       id="path1420"
+       stroke-width="3.7796"
+       fill="url(#linearGradient910)"
+       d="m 35.809537,5.0982312 c 4,1 5,6.9999998 6,10.9999998 0.97015,3.8806 3.1791,6.5448 9.0001,8.0001 4,1 8.0001,0.64046 10,6 0,-0.02375 -0.004,-0.04846 -0.004,-0.07227 -0.1095,-6.9962 -16.605,-23.7379998 -24.209,-24.8929998 -0.26493,-0.019715 -0.52852,-0.035156 -0.78712,-0.035156 z"
+       style="fill:url(#linearGradient1422)" />
   </g>
-  <g transform="translate(29.247,-7.4555)">
-   <circle cx="-330.35" cy="-328.38" r="0"/>
-   <g transform="translate(23.999,2.5837)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
-   <g transform="translate(24.518,-1.8976)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
-   <circle cx="-311.92" cy="-331.32" r="0"/>
-   <circle cx="-300.02" cy="-345.82" r="0"/>
-   <g transform="translate(19.697 .87184)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
-   <circle cx="-299.82" cy="-321.23" r="0"/>
-  </g>
-  <g transform="translate(22.502,-7.025)">
-   <circle cx="-330.35" cy="-328.38" r="0"/>
-   <g transform="translate(23.999,2.5837)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
-   <g transform="translate(24.518,-1.8976)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
-   <circle cx="-311.92" cy="-331.32" r="0"/>
-   <circle cx="-300.02" cy="-345.82" r="0"/>
-   <g transform="translate(19.697 .87184)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-299.17" cy="-337.27" r="0"/>
-    <circle cx="-299.81" cy="-339.42" r="0"/>
-    <circle cx="-302.25" cy="-338.13" r="0"/>
-    <circle cx="-301.89" cy="-335.91" r="0"/>
-    <circle cx="-304.76" cy="-351.05" r="0"/>
-    <circle cx="-304.83" cy="-349.54" r="0"/>
-    <circle cx="-359.94" cy="-336.91" r="0"/>
-   </g>
-   <circle cx="-299.82" cy="-321.23" r="0"/>
-  </g>
-  <g transform="translate(17.301,-3.9312)">
-   <circle cx="-330.35" cy="-328.38" r="0"/>
-   <circle cx="-39.434" cy="6.44" r="0" fill-rule="evenodd"/>
-   <circle cx="-306.9" cy="-332.28" r="0"/>
-  </g>
- </g>
- <g transform="matrix(3.7796 0 0 3.7796 203.05 -.48001)" fill="#5e4aa6" stroke-width=".26458">
-  <circle cx="-330.35" cy="-328.38" r="0"/>
-  <circle cx="-39.434" cy="6.44" r="0" fill-rule="evenodd"/>
-  <circle cx="-306.9" cy="-332.28" r="0"/>
- </g>
- <circle cx="228.53" cy="28.746" r="0" fill="url(#linearGradient1248)" stroke-width="1.5715"/>
- <g transform="matrix(3.7796 0 0 3.7796 196.51 -3.2984)" fill="#5e4aa6" stroke-width=".26458">
-  <circle cx="-330.35" cy="-328.38" r="0"/>
-  <circle cx="-39.434" cy="6.44" r="0" fill-rule="evenodd"/>
-  <g transform="translate(3.0032e-4,-9.9674e-5)">
-   <circle cx="-347.64" cy="-328.38" r="0"/>
-   <circle cx="-56.726" cy="6.44" r="0" fill-rule="evenodd"/>
-   <g transform="translate(-.0272 .0065001)">
-    <circle cx="-330.35" cy="-328.38" r="0"/>
-    <circle cx="-312.11" cy="-326.25" r="0"/>
-    <circle cx="-306.02" cy="-333.07" r="0"/>
-    <circle cx="-308.84" cy="-326.01" r="0"/>
-   </g>
-  </g>
- </g>
+  <path
+     d="M 59.5 29.535156 L 59.5 17.5 C 59.5 16.59975 59.408934 15.72084 59.236328 14.873047 C 59.063723 14.025254 58.810469 13.207859 58.482422 12.429688 C 57.826328 10.873344 56.876047 9.4737031 55.701172 8.2988281 C 54.526297 7.1239531 53.126656 6.1736719 51.570312 5.5175781 C 50.792141 5.1895312 49.974746 4.9362773 49.126953 4.7636719 C 48.27916 4.5910664 47.40025 4.5 46.5 4.5 L 34.488281 4.5 L 34.498047 4.53125 C 34.498047 4.53125 51.146129 10.542691 59.498047 29.53125 C 59.498779 29.532914 59.499268 29.533493 59.5 29.535156 z "
+     style="fill:#5d5d5d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     id="path1428" />
 </svg>
